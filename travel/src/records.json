@@ -1,0 +1,72 @@
+[
+    {
+        "id":1,
+        "title":"Diani",
+        "description": "Sandy Coastal Beaches",
+        "price":[
+            {
+                "cost":26000
+            }
+        ]
+    },
+    {
+        "id":2,
+        "title":"Watamu",
+        "description": "Old Coast",
+        "price":[
+            {
+                "cost":36000
+            }
+        ]
+    },
+    {
+        "id":1,
+        "title":"Diani",
+        "description": "Old Coast",
+        "price":[
+            {
+                "cost":36000
+            }
+        ]
+    },
+    {
+        "id":3,
+        "title":"Nanyuki",
+        "description": "Nanyuki National Park",
+        "price":[
+            {
+                "cost":11300
+            }
+        ]
+    },
+    {
+        "id":4,
+        "title":"Maasai Mara",
+        "description": "Safari Adventures",
+        "price":[
+            {
+                "cost":38000
+            }
+        ]
+    },
+    {
+        "id":1,
+        "title":"Turukana",
+        "description": "Lake Turukana",
+        "price":[
+            {
+                "cost":7500
+            }
+        ]
+    },
+    {
+        "id":1,
+        "title":"Kisumu",
+        "description": "Lake Victoria",
+        "price":[
+            {
+                "cost":5500
+            }
+        ]
+    }
+]
