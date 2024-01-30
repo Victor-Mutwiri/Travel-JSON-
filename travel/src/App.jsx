@@ -14,18 +14,17 @@ export default function App() {
 
   return (
     <Router>
-      <div>
-        <Navbar/>
-        <Routes>
-          <Route path='/' element={<Home/>}/>
-          <Route path='/city' element={<City/>}/>
-          <Route path='/expeditions' element={<Expeditions/>}/>
-          <Route path='/packages' element={<Packages/>}/>
-          <Route path='/about' element={<About/>}/>
-          <Route path='/contact' element={<Contact/>}/>
-          
-        </Routes>
-      </div>
+        <div className='body'>
+          <Navbar/>
+          <Routes>
+            <Route path='/' element={<Home/>}/>
+            <Route path='/city' element={<City/>}/>
+            <Route path='/expeditions' element={<Expeditions/>}/>
+            <Route path='/packages' element={<Packages/>}/>
+            <Route path='/about' element={<About/>}/>
+            <Route path='/contact' element={<Contact/>}/>
+          </Routes>
+        </div>
       </Router>
   )
 }

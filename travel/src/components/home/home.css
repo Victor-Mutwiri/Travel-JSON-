@@ -1,8 +1,11 @@
 .home{
-    height: 100vh;
-    margin-top: 5.5rem;
-    justify-content: center;
-    align-items: center;
-    align-content: center;
+    width: 100%;
+    box-sizing: border-box;
+    position: absolute;
+    height: 100vh;/* 
+    margin-top: 3.7rem; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* align-content: center; */
 }
 
