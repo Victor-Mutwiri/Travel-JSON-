@@ -5,6 +5,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import ElephantWildlife from '../../assets/images/Elephant-Wildlife.jpg'
 import Giraffes from '../../assets/images/Giraffe In Kenya.jpg'
+import MobileImage1 from '../../assets/images/Beach.jpg'
 
 export default function HomeSlider() {
   const [settings] = useState({
@@ -21,7 +22,7 @@ export default function HomeSlider() {
     <div className='carousel'>
       <Slider {...settings} className='slider'>
         <div className="carousel-container">
-          <img src={ElephantWildlife}/>
+          <img src={useImage()}/>
           <div className="carousel-overlay">
             <h2>Welcome to Salama Adventures</h2>
             <h3>Here to simplify and help you explore theKenyan Backyard</h3>
@@ -41,5 +42,9 @@ export default function HomeSlider() {
       </Slider>
     </div>
   );
+  function useImage() {
+    const isMobile = window.matchMedia("(max-width: 640px)").matches;
+    return isMobile ? (Math.random() > 0.5 ? MobileImage1 : MobileImage1) : (Math.random() > 0.5 ? ElephantWildlife : ElephantWildlife);
+  }
 }
 
