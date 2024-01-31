@@ -8,14 +8,15 @@ import Expeditions from './components/expeditions/expeditions'
 import Packages from './components/packages/packages'
 import About from './components/about/about'
 import Contact from './components/contact/contact'
+import Footer from './components/footer/footer'
 
 
 export default function App() {
 
   return (
     <Router>
+        <Navbar/>
         <div className='body'>
-          <Navbar/>
           <Routes>
             <Route path='/' element={<Home/>}/>
             <Route path='/city' element={<City/>}/>
@@ -25,6 +26,7 @@ export default function App() {
             <Route path='/contact' element={<Contact/>}/>
           </Routes>
         </div>
+        <Footer/>
       </Router>
   )
 }

@@ -1,6 +1,7 @@
 header{
     position: absolute;
     display: flex;
+    background: transparent;
     width: 100%;
     top: 0;
     right: 0;
@@ -44,6 +45,7 @@ header{
 
 @media (max-width: 640px) {
     header {
+        position: fixed;
         padding: 10px;
     }
 
@@ -73,8 +75,9 @@ header{
         position: absolute; /* Position it relative to the header */
         top: 100%; /* Position it below the header */
         left: 0;
-        background-color: #fff;
-        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        /* background-color: #fff; */
+        background-color: transparent;
+        /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); */
         width: 100%;
         padding: 20px 0;
         transform: translateY(0);
