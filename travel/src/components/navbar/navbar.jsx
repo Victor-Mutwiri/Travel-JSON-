@@ -1,6 +1,7 @@
 import {Link, useLocation} from 'react-router-dom'
 import {useState, useEffect} from 'react'
 import './navbar.css'
+import logoImage from '../../assets/images/safari logo.png'
 
 export default function Navbar(){
     const [menuOpen, setMenuOpen] = useState (false)
@@ -24,7 +25,7 @@ export default function Navbar(){
     return(
         <header>
             <Link to="/" className="logo">
-                {/* <img src={logoImage} alt="Logo"/> */}
+                <img src={logoImage} alt="Logo" width={40}/>
             </Link>
             <ul id="navbar" className={menuOpen?"open":""}>
                 <li><Link to='/' onClick={handleClick}>Home</Link></li>

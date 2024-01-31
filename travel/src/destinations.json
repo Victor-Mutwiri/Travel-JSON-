@@ -1,0 +1,72 @@
+[
+    {
+        "id":1,
+        "title":"National Museum",
+        "description":"Want to learn about the country’s history, it’s people, culture and art then this is aplace you can start with",
+        "location":"Kipande Rd, Nairobi",
+        "prices":500
+    },
+    {
+        "id":2,
+        "title":"National Museum",
+        "description":"Want to learn about the country’s history, it’s people, culture and art then this is aplace you can start with",
+        "location":"Kipande Rd, Nairobi",
+        "prices":500
+    },
+    {
+        "id":3,
+        "title":"National Museum",
+        "description":"Want to learn about the country’s history, it’s people, culture and art then this is aplace you can start with",
+        "location":"Kipande Rd, Nairobi",
+        "prices":500
+    },
+    {
+        "id":4,
+        "title":"National Museum",
+        "description":"Want to learn about the country’s history, it’s people, culture and art then this is aplace you can start with",
+        "location":"Kipande Rd, Nairobi",
+        "prices":500
+    },
+    {
+        "id":5,
+        "title":"National Museum",
+        "description":"Want to learn about the country’s history, it’s people, culture and art then this is aplace you can start with",
+        "location":"Kipande Rd, Nairobi",
+        "prices":500
+    },
+    {
+        "id":6,
+        "title":"National Museum",
+        "description":"Want to learn about the country’s history, it’s people, culture and art then this is aplace you can start with",
+        "location":"Kipande Rd, Nairobi",
+        "prices":500
+    },
+    {
+        "id":7,
+        "title":"National Museum",
+        "description":"Want to learn about the country’s history, it’s people, culture and art then this is aplace you can start with",
+        "location":"Kipande Rd, Nairobi",
+        "prices":500
+    },
+    {
+        "id":8,
+        "title":"National Museum",
+        "description":"Want to learn about the country’s history, it’s people, culture and art then this is aplace you can start with",
+        "location":"Kipande Rd, Nairobi",
+        "prices":500
+    },
+    {
+        "id":9,
+        "title":"National Museum",
+        "description":"Want to learn about the country’s history, it’s people, culture and art then this is aplace you can start with",
+        "location":"Kipande Rd, Nairobi",
+        "prices":500
+    },
+    {
+        "id":10,
+        "title":"National Museum",
+        "description":"Want to learn about the country’s history, it’s people, culture and art then this is aplace you can start with",
+        "location":"Kipande Rd, Nairobi",
+        "prices":500
+    }
+]

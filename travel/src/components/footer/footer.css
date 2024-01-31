@@ -19,6 +19,12 @@ footer{
     display: block;
     line-height: 28px;
 }
+.contact-us h2{
+    font-size: 20px;
+    color: orange;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
 .contact-us li a{
     font-size: 16px;
     font-weight: 500;
@@ -33,6 +39,12 @@ footer{
 .other-links{
     display: block;
     line-height: 28px;
+}
+.other-links h2{
+    font-size: 20px;
+    color: orange;
+    font-weight: 600;
+    margin-bottom: 5px;
 }
 .other-links a{
     font-size: 16px;
@@ -72,12 +84,35 @@ footer{
 }
 .bx-copyright{
     color: white;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 @media(max-width: 640px){
     footer{
+        display: flex;
+        flex-direction: column;
         margin-top: 0px;
-        padding: 10px;
+        padding: 20px;
         height: auto;
+        align-items: center;
     }
+    .contact-us h2{
+        margin-top: 15px;
+    }
+    .other-links h2{
+        margin-top: 15px;
+    }
+    .links{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    .links hr{
+        display: none;
+    }
+    .copyright {
+        text-align: center; /* Center text */
+      }
 }
