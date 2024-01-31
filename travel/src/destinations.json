@@ -1,6 +1,7 @@
 [
     {
         "id":1,
+        "image": "./assets/images/national-museum.jpg",
         "title":"National Museum",
         "description":"Want to learn about the country’s history, it’s people, culture and art then this is aplace you can start with",
         "location":"Kipande Rd, Nairobi",
@@ -8,65 +9,74 @@
     },
     {
         "id":2,
-        "title":"National Museum",
-        "description":"Want to learn about the country’s history, it’s people, culture and art then this is aplace you can start with",
-        "location":"Kipande Rd, Nairobi",
-        "prices":500
+        "image": "./assets/images/railway.jpg",
+        "title":"Railway Museum",
+        "description":"Displays the relics and records of the railways of East Africa",
+        "location":"Adjacent to Nairobi railway station",
+        "prices":200
     },
     {
         "id":3,
-        "title":"National Museum",
-        "description":"Want to learn about the country’s history, it’s people, culture and art then this is aplace you can start with",
-        "location":"Kipande Rd, Nairobi",
-        "prices":500
+        "image": "./images/diani.jpg",
+        "title":"Giraffe Center",
+        "description":"This breeding and conservation centre educates about the endangered Rothschild's giraffe",
+        "location":"Lang'ata, Duma Rd, Nairobi",
+        "prices":800
     },
     {
         "id":4,
-        "title":"National Museum",
-        "description":"Want to learn about the country’s history, it’s people, culture and art then this is aplace you can start with",
-        "location":"Kipande Rd, Nairobi",
+        "image": "./assets/images/Elephant Center.jpg",
+        "title":"David Sheldrick Trust Elephant Orphan Centre",
+        "description":"The orphanage caters for the welfare of orphaned Elephants and Rhinos",
+        "location":"KWS Central Workshop Gate, Magadi Rd, Nairobi",
         "prices":500
     },
     {
         "id":5,
-        "title":"National Museum",
-        "description":"Want to learn about the country’s history, it’s people, culture and art then this is aplace you can start with",
-        "location":"Kipande Rd, Nairobi",
-        "prices":500
+        "image": "./images/diani.jpg",
+        "title":"Nairobi Arboretum",
+        "description":" Provides a quiet peaceful place for city residents looking to escape the city hustle and bustle",
+        "location":"Offers a great space for walks, picnics and events",
+        "prices":"Free"
     },
     {
         "id":6,
-        "title":"National Museum",
-        "description":"Want to learn about the country’s history, it’s people, culture and art then this is aplace you can start with",
-        "location":"Kipande Rd, Nairobi",
-        "prices":500
+        "image": "./images/diani.jpg",
+        "title":"Gp Karting",
+        "description":" Turn up at the recently resurfaced track for a day filled with fun and speed",
+        "location":"Carnivore road off Langata Road",
+        "prices":1500
     },
     {
         "id":7,
-        "title":"National Museum",
-        "description":"Want to learn about the country’s history, it’s people, culture and art then this is aplace you can start with",
-        "location":"Kipande Rd, Nairobi",
+        "image": "./images/diani.jpg",
+        "title":"Maasai ostrich farm",
+        "description":" You will not only enjoy a taste of Ostrich meat but you will also get a chance to ride on Ostrich",
+        "location":"Enkasiti Rd, Off Nairobi – Namanga Rd, Kitengela, Kenya",
         "prices":500
     },
     {
         "id":8,
-        "title":"National Museum",
-        "description":"Want to learn about the country’s history, it’s people, culture and art then this is aplace you can start with",
-        "location":"Kipande Rd, Nairobi",
-        "prices":500
+        "image": "./images/diani.jpg",
+        "title":"Oloolua Nature Trail",
+        "description":" Provides a quiet peaceful place for city residents looking to escape the city hustle and bustle",
+        "location":"Oloolau Forest, Karen Rd, Nairobi",
+        "prices":200
     },
     {
         "id":9,
-        "title":"National Museum",
-        "description":"Want to learn about the country’s history, it’s people, culture and art then this is aplace you can start with",
-        "location":"Kipande Rd, Nairobi",
-        "prices":500
+        "image": "./images/diani.jpg",
+        "title":"Nairobi national park",
+        "description":"A unique ecosystem by being the only protected area in the world close to a capital city",
+        "location":"Nairobi",
+        "prices":1500
     },
     {
         "id":10,
-        "title":"National Museum",
-        "description":"Want to learn about the country’s history, it’s people, culture and art then this is aplace you can start with",
-        "location":"Kipande Rd, Nairobi",
-        "prices":500
+        "image": "./assets/images/Giraffe Manor 1.jpg",
+        "title":"Giraffe Manor",
+        "description":"A unique boutique hotel celebrated for its exceptional hospitality and the presence of resident Rothschild's giraffes freely roaming the surrounding sanctuary",
+        "location":"Gogo Falls Road, Nairobi",
+        "prices":2000
     }
 ]
