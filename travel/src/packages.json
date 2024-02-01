@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "image": " ",
+        "title":"Tour Around the City",
+        "description":"Nairobi National Park, Bomas of Kenya, Ngong Hills, and Hell’s Gate National Park",
+        "days":7,
+        "prices":7000
+    },
+    {
+        "id":2,
+        "image": " ",
+        "title":"Mombasa",
+        "description":"Fort Jesus, Old Town, Diani Beach, Mombasa Marine National Park, and Nyali Beach",
+        "days":5,
+        "prices":15000
+    },
+    {
+        "id":3,
+        "image": " ",
+        "title":"Malindi",
+        "description":"Watamu Beach, Malindi Museum, and Watamu Marine National Parks",
+        "days":7,
+        "prices":20000
+    },
+    {
+        "id":4,
+        "image": " ",
+        "title":"Lamu Island",
+        "description":"Lamu Fort, Lamu Museum, and Manda Island",
+        "days":7,
+        "prices":7000
+    },
+    {
+        "id":5,
+        "image": " ",
+        "title":"Wasini Island",
+        "description":"Kisite Marine National Park, Shimoni Slave Caves, and Paradise Beach",
+        "days":10,
+        "prices":20000
+    },
+    {
+        "id":6,
+        "image": " ",
+        "title":"Tour Around Western Kenya",
+        "description":"Crying Stone of Ilesi, Mount Elgon National Park, Kakapel Cultural Centre, Aderema Hills",
+        "days":4,
+        "prices":5000
+    },
+    {
+        "id":7,
+        "image": " ",
+        "title":"Northern Kenya",
+        "description":"Reteti Elephant Sanctuary, Kalacha, Lake Turkana ‘The Jade Sea’, Sibiloi National Park, Sera Conservancy & Rhino Sanctuary",
+        "days":5,
+        "prices":12000
+    },
+    {
+        "id":8,
+        "image": " ",
+        "title":"Central Province",
+        "description":"Thomson Falls, Evergreen Park, Subukia Shrine, Kereita Cave and Waterfall, Kiambethu Farm",
+        "days":3,
+        "prices":4000
+    }
+]
