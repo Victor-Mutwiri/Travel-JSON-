@@ -19,7 +19,7 @@ export default function App() {
         <div className='body'>
           <Routes>
             <Route path='/' element={<Home/>}/>
-            <Route path='/city' element={<City/>}/>
+            {<Route path='/city' element={<City/>}/>}
             <Route path='/expeditions' element={<Expeditions/>}/>
             <Route path='/packages' element={<Packages/>}/>
             <Route path='/about' element={<About/>}/>

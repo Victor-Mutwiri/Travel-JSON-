@@ -1,11 +1,13 @@
 header{
     position: absolute;
     display: flex;
-    background: transparent;
+    /* background: transparent; */
+    background: #fff;
     width: 100%;
     top: 0;
-    right: 0;
-    z-index: 1000;
+    z-index: 1;
+    /* right: 0; */
+    /* z-index: 1000; */
     box-shadow: 0 1px 6px 0 rgb(32 33 36/10%);
     align-items: center;
     justify-content: space-around;
@@ -47,6 +49,8 @@ header{
     header {
         position: fixed;
         padding: 10px;
+        /* new addition: must remove */
+        width: 100%;
     }
 
     #navbar {

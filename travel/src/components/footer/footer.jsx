@@ -5,7 +5,7 @@ export default function Footer(){
         <footer>
             <section className="links">
                 <div className="logoimg">
-                    <img src={SafariLogo} alt="Logo Image" width={100}/>
+                    <img src={SafariLogo} alt="Logo Image" width={80}/>
                 </div>
                 <hr />
                 <div className="contact-us">

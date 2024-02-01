@@ -7,3 +7,10 @@
     text-decoration: none;
     scroll-behavior: smooth;
   }
+
+
+  @media (max-width:640px){
+    body{
+      max-width: 400px;
+    }
+  }
