@@ -56,6 +56,10 @@
     background: orangered;
 }
 @media (max-width: 640px) {
+    .home{
+        width: 100%;
+        position: absolute;
+    }
     .home img{
         margin-top: 0px;
         width: 100%;

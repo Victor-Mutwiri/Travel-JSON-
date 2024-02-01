@@ -1,5 +1,5 @@
 header{
-    position: absolute;
+    position: relative;
     display: flex;
     /* background: transparent; */
     background: #fff;
@@ -80,7 +80,7 @@ header{
         top: 100%; /* Position it below the header */
         left: 0;
         /* background-color: #fff; */
-        background-color: transparent;
+        background-color: #fff;
         /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); */
         width: 100%;
         padding: 20px 0;

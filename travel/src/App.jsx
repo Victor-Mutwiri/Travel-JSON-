@@ -16,7 +16,6 @@ export default function App() {
   return (
     <Router>
         <Navbar/>
-        <div className='body'>
           <Routes>
             <Route path='/' element={<Home/>}/>
             {<Route path='/city' element={<City/>}/>}
@@ -25,7 +24,6 @@ export default function App() {
             <Route path='/about' element={<About/>}/>
             <Route path='/contact' element={<Contact/>}/>
           </Routes>
-        </div>
         <Footer/>
       </Router>
   )

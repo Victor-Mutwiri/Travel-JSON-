@@ -1,0 +1,122 @@
+[
+    {
+        "id":1,
+        "image": "",
+        "title":"Maasai Mara",
+        "description":"Known to be one of the most spectacular game reserves",
+        "location":"Narok KE, Narok, Kenya",
+        "prices":2500
+    },
+    {
+        "id":2,
+        "image": " ",
+        "title":"Fourteen Falls",
+        "description":"This site contains fourteen beautiful waterfalls that have abundant activities and tours",
+        "location":"Mary Dale Farm, Thika, Kenya",
+        "prices":700
+    },
+    {
+        "id":3,
+        "image": " ",
+        "title":"Diani Beach",
+        "description":"Bask in the tropical weather, and enjoy a mesmerizing view of the palm-lined beach, and untarnished white sands",
+        "location":"Mombasa, Kenya",
+        "prices":"Free"
+    },
+    {
+        "id":4,
+        "image": " ",
+        "title":"Lamu Island",
+        "description":"Travel back in time as you explore the oldest inhabited settlement in Kenya",
+        "location":"Lamu",
+        "prices":"Free"
+    },
+    {
+        "id":5,
+        "image": " ",
+        "title":"Wasini Island",
+        "description":"The small island of Wasini lies in Southeastern coast and is known for its ultramarine waters, and extensive coral reefs",
+        "location":"South Coast",
+        "prices":"Free"
+    },
+    {
+        "id":6,
+        "image": "",
+        "title":"Samburu National Reserve",
+        "description":"Known for its popular game reserve where tourist can enjoy a rejuvenating stay, and witness the extensive wildlife",
+        "location":"Ewaso Ng’iro",
+        "prices":3500
+    },
+    {
+        "id":7,
+        "image": "",
+        "title":"Malindi",
+        "description":"Malindi is a popular resort town that lures tourists to explore its historical monuments, pristine beaches, and extensive corals",
+        "location":"Malindi",
+        "prices":"Free"
+    },
+    {
+        "id":8,
+        "image": " ",
+        "title":"Mombasa",
+        "description":"This city is also famous for its beaches, corals, old monuments, and bustling street markets",
+        "location":"Mombasa",
+        "prices":"Free"
+    },
+    {
+        "id":9,
+        "image": " ",
+        "title":"Mt. Kenya National Park",
+        "description":"Mt. Kenya is the second highest peak in Kenya, and also a UNESCO World Heritage Site",
+        "location":"Central Kenya",
+        "prices":1500
+    },
+    {
+        "id":10,
+        "image": " ",
+        "title":"Lake Victoria",
+        "description":"Passing through 3 African countries namely Kenya, Uganda, and Tanzania, Lake Victoria is the largest lake in the whole continent",
+        "location":"Kisumu",
+        "prices":"Free"
+    },
+    {
+        "id":11,
+        "image": " ",
+        "title":"Amboseli National Park",
+        "description":"Adorned by the gigantic Mt. Kilimanjaro, Amboseli National Park is one of the top places to visit in Kenya for wildlife enthusiasts",
+        "location":"Loitokitok District, Rift Valley, Kenya",
+        "prices":4500
+    },
+    {
+        "id":12,
+        "image": " ",
+        "title":"Lake Turkana",
+        "description":"Lake Turkana is the most important everlasting desert lake on the planet",
+        "location":"Turkana",
+        "prices":"Free"
+    },
+    {
+        "id":13,
+        "image": " ",
+        "title":"Tsavo National Park",
+        "description":"National parks of Tsavo East and Tsavo West Collectively make up Kenya’s largest protected wildlife space ",
+        "location":"Tsavo",
+        "prices":5500
+    },
+    {
+        "id":14,
+        "image": " ",
+        "title":"Lake Nakuru National Park",
+        "description":"Lake Nakuru National Park nestles on the ground of the Great Rift Valley and is known for its huge soda lake.",
+        "location":"Nakuru",
+        "prices":"Free"
+    },
+    {
+        "id":15,
+        "image": " ",
+        "title":"Hell’s Gate National Park",
+        "description":"Hell’s Gate permits strolling safaris and has designated trails for mountain climbing and mountain biking",
+        "location":"Great Rift Valley",
+        "prices":3500
+    }
+]

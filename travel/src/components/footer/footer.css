@@ -1,5 +1,5 @@
 footer{
-    position: relative;
+    /* position: relative; */
     width: 100%;
     bottom: 0;
     padding: 20px;
@@ -89,11 +89,10 @@ footer{
     footer{
         position: absolute;
         bottom: 0;
-        z-index: 1;
-        display: flex;
+        display: none;
         flex-direction: column;
         width: 100%;
-        margin-top: 0px;
+        margin-top: 10px;
         padding: 20px;
         height: auto;
         align-items: center;
