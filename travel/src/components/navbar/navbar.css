@@ -1,5 +1,5 @@
 header{
-    position: relative;
+    position: absolute;
     display: flex;
     /* background: transparent; */
     background: #fff;

@@ -6,7 +6,8 @@
     margin-top: 3.6rem; 
     justify-content: center; 
     align-items: center; 
-    align-content: center; 
+    align-content: center;
+    background: #fff;
 }
 .home img{
     width: 100%;
