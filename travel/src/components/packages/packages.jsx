@@ -1,3 +1,4 @@
+import './packages.css'
 import packages from '../../packages.json'
 
 export default function Packages(){
@@ -8,7 +9,7 @@ export default function Packages(){
                 {packages.map(places=>{
                     return(
                         <div className="area" key={places.id}>
-                            <img src={places.image} />
+                            <img src={places.image}/>
                             <div className='desc'>
                                 <h2><strong>{places.title}</strong></h2>
                                 <p><strong>Major Attractions: </strong>{places.description}</p>

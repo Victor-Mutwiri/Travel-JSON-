@@ -1,4 +1,4 @@
-.expeditions{
+.packages{
     margin-top: 5.6rem;
     justify-content: center; 
     align-items: center; 
@@ -11,53 +11,53 @@ h2{
     margin-top: 20px;
     margin-bottom: 20px;
 }
-.site{
+.pack{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
     padding: 10px 25px;
 }
-.kenya{
+.area{
     border: 1px solid #000;
     width: calc(33.33% - 40px);
     margin-bottom: 20px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
-.kenya img {
+.area img{
     width: 100%;
     max-height: 200px;
     object-fit: cover;
     border-radius: 5px 5px 0 0;
 }
-.others{
+.desc{
     padding: 10px;
     text-align: left;
 }
-.others h2 {
+.desc h2 {
     margin-top: 10px;
     font-size: 18px;
 }
 
-.others p {
+.desc p {
     margin: 10px 0;
 }
-.others p:first-child {
+.desc p:first-child {
     margin-top: 0;
 }
 
-.others p:last-child {
+.desc p:last-child {
     margin-bottom: 10px;
 }
 
 
 @media (max-width:640px){
-    .expeditions{
+    .packages{
         margin-top: 3.78rem;
         width: 100%;
         position: absolute;
     }
-    .kenya{
+    .area{
         width: 100%;
     }
 }
