@@ -1,6 +1,5 @@
 .create{
     /* margin-top: 4.5rem; */
-    position: relative;
     margin-bottom: 2.5rem;
     max-width: 400px;
     margin: 6.8rem auto;
@@ -44,9 +43,9 @@
 
 @media(max-width: 640px){
     .create{
-        margin-top: 3.8rem;
+        margin-top: 4.2rem;
         margin-bottom: 3rem;
         width: 100%;
-        background: gray;
+        background: #fff;
     }
 }

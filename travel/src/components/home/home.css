@@ -1,13 +1,19 @@
+body{
+    margin: 0;
+    /* padding-top: calc(3.6rem + 20px); */
+    
+}
 .home{
     width: 100%;
     box-sizing: border-box;
-    /* position: absolute */;
+    /* position: absolute; */
     /* height: 100vh; */ 
     margin-top: 3.6rem; 
     justify-content: center; 
     align-items: center; 
     align-content: center;
     background: #fff;
+    border-radius: none;
 }
 .home img{
     width: 100%;
@@ -59,7 +65,7 @@
 @media (max-width: 640px) {
     .home{
         width: 100%;
-        position: absolute;
+        /* position: absolute; */
     }
     .home img{
         margin-top: 0px;

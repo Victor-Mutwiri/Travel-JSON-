@@ -1,5 +1,5 @@
 header{
-    position: absolute;
+    position: fixed;
     display: flex;
     /* background: transparent; */
     background: #fff;
@@ -47,7 +47,7 @@ header{
 
 @media (max-width: 640px) {
     header {
-        position: fixed;
+        position: absolute;
         padding: 10px;
         /* new addition: must remove */
         width: 100%;

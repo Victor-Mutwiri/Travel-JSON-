@@ -1,11 +1,12 @@
 footer{
-    /* position: relative; */
     width: 100%;
     bottom: 0;
     padding: 20px;
     display: block;
     height: auto;
     background: #000;
+    position: static;
+    border-radius: none;
 }
 .links{
     display: flex;
@@ -87,15 +88,16 @@ footer{
 
 @media(max-width: 640px){
     footer{
-        position: absolute;
+        position: static;
         bottom: 0;
-        display: none;
+        display: flex;
         flex-direction: column;
         width: 100%;
-        margin-top: 10px;
+        margin-top: 0px;
         padding: 20px;
         height: auto;
         align-items: center;
+        z-index: 2;
     }
     .contact-us h2{
         margin-top: 15px;

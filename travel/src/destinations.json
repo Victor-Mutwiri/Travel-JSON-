@@ -1,7 +1,7 @@
 [
     {
         "id":1,
-        "image": "./assets/images/national-museum.jpg",
+        "image": "/images/national-museum.jpg",
         "title":"National Museum",
         "description":"Want to learn about the country’s history, it’s people, culture and art then this is aplace you can start with",
         "location":"Kipande Rd, Nairobi",
@@ -9,7 +9,7 @@
     },
     {
         "id":2,
-        "image": "./assets/images/railway.jpg",
+        "image": "/images/railway.jpg",
         "title":"Railway Museum",
         "description":"Displays the relics and records of the railways of East Africa",
         "location":"Adjacent to Nairobi railway station",
@@ -17,7 +17,7 @@
     },
     {
         "id":3,
-        "image": "./assets/images/Giraffe Manor 1.jpg",
+        "image": "/images/Giraffe Center.jpg",
         "title":"Giraffe Center",
         "description":"This breeding and conservation centre educates about the endangered Rothschild's giraffe",
         "location":"Lang'ata, Duma Rd, Nairobi",
@@ -25,7 +25,7 @@
     },
     {
         "id":4,
-        "image": "./assets/images/Elephant Center.jpg",
+        "image": "/images/Elephant Center.jpg",
         "title":"David Sheldrick Trust Elephant Orphan Centre",
         "description":"The orphanage caters for the welfare of orphaned Elephants and Rhinos",
         "location":"KWS Central Workshop Gate, Magadi Rd, Nairobi",
@@ -33,7 +33,7 @@
     },
     {
         "id":5,
-        "image": "./images/diani.jpg",
+        "image": "/images/arboretum.jpg",
         "title":"Nairobi Arboretum",
         "description":" Provides a quiet peaceful place for city residents looking to escape the city hustle and bustle",
         "location":"Offers a great space for walks, picnics and events",
@@ -41,7 +41,7 @@
     },
     {
         "id":6,
-        "image": "./images/diani.jpg",
+        "image": "/images/Gp Karting.jpg",
         "title":"Gp Karting",
         "description":" Turn up at the recently resurfaced track for a day filled with fun and speed",
         "location":"Carnivore road off Langata Road",
@@ -49,7 +49,7 @@
     },
     {
         "id":7,
-        "image": "./images/diani.jpg",
+        "image": "/images/Safari Ostrich Farm.jpg",
         "title":"Maasai ostrich farm",
         "description":" You will not only enjoy a taste of Ostrich meat but you will also get a chance to ride on Ostrich",
         "location":"Enkasiti Rd, Off Nairobi – Namanga Rd, Kitengela, Kenya",
@@ -57,7 +57,7 @@
     },
     {
         "id":8,
-        "image": "./images/diani.jpg",
+        "image": "/images/Oloolua Nature Trail.jpg",
         "title":"Oloolua Nature Trail",
         "description":" Provides a quiet peaceful place for city residents looking to escape the city hustle and bustle",
         "location":"Oloolau Forest, Karen Rd, Nairobi",
@@ -65,7 +65,7 @@
     },
     {
         "id":9,
-        "image": "./images/diani.jpg",
+        "image": "/images/Nairobi National Park.jpg",
         "title":"Nairobi national park",
         "description":"A unique ecosystem by being the only protected area in the world close to a capital city",
         "location":"Nairobi",
@@ -73,7 +73,7 @@
     },
     {
         "id":10,
-        "image": "./assets/images/Giraffe Manor 1.jpg",
+        "image": "/images/Giraffe Manor 1.jpg",
         "title":"Giraffe Manor",
         "description":"A unique boutique hotel celebrated for its exceptional hospitality and the presence of resident Rothschild's giraffes freely roaming the surrounding sanctuary",
         "location":"Gogo Falls Road, Nairobi",
